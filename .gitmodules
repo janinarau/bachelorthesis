@@ -1,0 +1,3 @@
+[submodule "nvm-oma_nvm-rt"]
+	path = nvm-oma_nvm-rt
+	url = git@github.com:janinarau/nvm-oma_nvm-rt.git

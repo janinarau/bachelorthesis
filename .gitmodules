@@ -1,3 +1,7 @@
 [submodule "nvm-oma_nvm-rt"]
 	path = nvm-oma_nvm-rt
 	url = git@github.com:janinarau/nvm-oma_nvm-rt.git
+[submodule "TU-Do_nvmain"]
+	path = TU-Do_nvmain
+	url = git@github.com:OMA-NVM/TU-Do_nvmain.git
+	branch = write-mode-areas

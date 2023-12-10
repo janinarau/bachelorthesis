@@ -5,3 +5,6 @@
 	path = TU-Do_nvmain
 	url = git@github.com:OMA-NVM/TU-Do_nvmain.git
 	branch = write-mode-areas
+[submodule "nvm-oma_gem5"]
+	path = nvm-oma_gem5
+	url = git@github.com:janinarau/nvm-oma_gem5.git
